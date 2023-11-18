@@ -350,9 +350,9 @@ kill -9 <pid>
 ```
 
 ##### 參考資源:
-[The Will Will Web](https://blog.miniasp.com/post/2020/08/21/Install-Kubernetes-cluster-in-WSL-2-Docker-on-Windows-using-kind?full=1)
-[Docs.Docker](https://docs.docker.com/desktop/wsl/)
-[KinD](https://kind.sigs.k8s.io/docs/user/quick-start/#installation)
-[kubernetes.io](
+- [The Will Will Web](https://blog.miniasp.com/post/2020/08/21/Install-Kubernetes-cluster-in-WSL-2-Docker-on-Windows-using-kind?full=1)
+- [Docs.Docker](https://docs.docker.com/desktop/wsl/)
+- [KinD](https://kind.sigs.k8s.io/docs/user/quick-start/#installation)
+- [kubernetes.io](
 https://kubernetes.io/docs/tasks/access-application-cluster/web-ui-dashboard/)
-[Kubernetes Dashboard](https://github.com/kubernetes/dashboard/blob/master/docs/user/access-control/creating-sample-user.md)
+- [Kubernetes Dashboard](https://github.com/kubernetes/dashboard/blob/master/docs/user/access-control/creating-sample-user.md)
